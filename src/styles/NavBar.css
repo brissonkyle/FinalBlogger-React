@@ -1,0 +1,26 @@
+.navBar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.navBar h1 {
+  color: #f13535;
+}
+
+.navBar .links {
+  margin-left: auto;
+}
+
+.navBar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.navBar a:hover {
+  color: #f13535;
+}
